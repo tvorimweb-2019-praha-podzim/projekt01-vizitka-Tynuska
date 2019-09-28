@@ -29,14 +29,14 @@ img {
   width: 25%;
   }    
 
-  .uvod {
+.uvod {
   width: 70%;
   float: right;
   background-color: rgba(80, 47, 114, 0.616);
   color: white;
   }
 
-  .kontakt {
+.kontakt {
   float:right;
   width: 70%;
   }
