@@ -11,35 +11,35 @@ body {
   font-family: 'Cormorant Garamond', serif; 
   line-height: 1.5;
   font-size: 120%;
-  }
+}
 
 h1 {
   color: rgb(89, 5, 105);
   text-align: center;
   font-size: 200%;
-  }
+}
 
 a {
   color: white;
-  }
+}
 
 img {
   border: white 5px dotted;
   padding: 7px;
   width: 25%;
-  }    
+}    
 
 .uvod {
   width: 70%;
   float: right;
   background-color: rgba(80, 47, 114, 0.616);
   color: white;
-  }
+}
 
 .kontakt {
   float:right;
   width: 70%;
-  }
+}
 
 
 
