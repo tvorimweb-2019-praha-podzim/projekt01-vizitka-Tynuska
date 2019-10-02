@@ -1,14 +1,22 @@
+html {
+  box-sizing: border-box;
+}
+
+*, ::after, ::before {
+  box-sizing: inherit;
+}
+
 .box {
   width: 80%;
   max-height: 100%;
   box-sizing: border-box;
   margin: 1em auto;
   padding: 15px;
-  }
+}
 
 body {
   background-color: rgb(240, 142, 147);
-  font-family: 'Cormorant Garamond', serif; 
+  font-family: 'Cormorant Garamond', serif;
   line-height: 1.5;
   font-size: 120%;
 }
@@ -27,7 +35,7 @@ img {
   border: white 5px dotted;
   padding: 7px;
   width: 25%;
-}    
+}
 
 .uvod {
   width: 70%;
@@ -37,29 +45,25 @@ img {
 }
 
 .kontakt {
-  float:right;
+  float: right;
   width: 70%;
 }
 
+li {
+  display: inline-block;
+}
 
+a {
+  display: inline-block;
+  text-align: center;
+}
 
+ul {
+  background-color: violet;
+  text-align: center;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
+.menu a {
+  text-decoration: none;
+  padding: 5px 50px;
+}
